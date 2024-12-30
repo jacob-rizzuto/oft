@@ -1,0 +1,622 @@
+[
+  {
+    "Token Name": "ABOND",
+    "CoinMarketCap Symbol": 29157
+  },
+  {
+    "Token Name": "ARKEN",
+    "CoinMarketCap Symbol": 23969
+  },
+  {
+    "Token Name": "BAL",
+    "CoinMarketCap Symbol": 5728
+  },
+  {
+    "Token Name": "BEETS",
+    "CoinMarketCap Symbol": 13244
+  },
+  {
+    "Token Name": "BETS",
+    "CoinMarketCap Symbol": 18453
+  },
+  {
+    "Token Name": "BTC.b",
+    "CoinMarketCap Symbol": 20721
+  },
+  {
+    "Token Name": "CAKE",
+    "CoinMarketCap Symbol": 7186
+  },
+  {
+    "Token Name": "DEGEN",
+    "CoinMarketCap Symbol": 24276
+  },
+  {
+    "Token Name": "DMAIL",
+    "CoinMarketCap Symbol": 19779
+  },
+  {
+    "Token Name": "DMT",
+    "CoinMarketCap Symbol": 25653
+  },
+  {
+    "Token Name": "ENA",
+    "CoinMarketCap Symbol": 30171
+  },
+  {
+    "Token Name": "GOLD",
+    "CoinMarketCap Symbol": 27897
+  },
+  {
+    "Token Name": "GSWIFT",
+    "CoinMarketCap Symbol": 27445
+  },
+  {
+    "Token Name": "GUILD",
+    "CoinMarketCap Symbol": 15664
+  },
+  {
+    "Token Name": "IDIA",
+    "CoinMarketCap Symbol": 10933
+  },
+  {
+    "Token Name": "IRL",
+    "CoinMarketCap Symbol": 20858
+  },
+  {
+    "Token Name": "ITP",
+    "CoinMarketCap Symbol": 22877
+  },
+  {
+    "Token Name": "JOE",
+    "CoinMarketCap Symbol": 11396
+  },
+  {
+    "Token Name": "LIF3",
+    "CoinMarketCap Symbol": 20611
+  },
+  {
+    "Token Name": "LSHARE",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "MAV",
+    "CoinMarketCap Symbol": 18037
+  },
+  {
+    "Token Name": "MAVIA",
+    "CoinMarketCap Symbol": 28829
+  },
+  {
+    "Token Name": "METIS",
+    "CoinMarketCap Symbol": 9640
+  },
+  {
+    "Token Name": "MIM",
+    "CoinMarketCap Symbol": 162
+  },
+  {
+    "Token Name": "mkUSD",
+    "CoinMarketCap Symbol": 28094
+  },
+  {
+    "Token Name": "MTVT",
+    "CoinMarketCap Symbol": 15974
+  },
+  {
+    "Token Name": "OLE",
+    "CoinMarketCap Symbol": 20719
+  },
+  {
+    "Token Name": "OSAK",
+    "CoinMarketCap Symbol": 27533
+  },
+  {
+    "Token Name": "PEPE",
+    "CoinMarketCap Symbol": 24478
+  },
+  {
+    "Token Name": "QI",
+    "CoinMarketCap Symbol": 10237
+  },
+  {
+    "Token Name": "RDNT",
+    "CoinMarketCap Symbol": 21106
+  },
+  {
+    "Token Name": "REUNI",
+    "CoinMarketCap Symbol": 23996
+  },
+  {
+    "Token Name": "rsETH",
+    "CoinMarketCap Symbol": 29242
+  },
+  {
+    "Token Name": "SFUND",
+    "CoinMarketCap Symbol": 8972
+  },
+  {
+    "Token Name": "SHRAP",
+    "CoinMarketCap Symbol": 28363
+  },
+  {
+    "Token Name": "SNSY",
+    "CoinMarketCap Symbol": 30156
+  },
+  {
+    "Token Name": "STG",
+    "CoinMarketCap Symbol": 18934
+  },
+  {
+    "Token Name": "sUSDe",
+    "CoinMarketCap Symbol": 29471
+  },
+  {
+    "Token Name": "TENET",
+    "CoinMarketCap Symbol": 24892
+  },
+  {
+    "Token Name": "TROVE",
+    "CoinMarketCap Symbol": 23580
+  },
+  {
+    "Token Name": "UNB",
+    "CoinMarketCap Symbol": 7846
+  },
+  {
+    "Token Name": "UNIX",
+    "CoinMarketCap Symbol": 14915
+  },
+  {
+    "Token Name": "unshETH",
+    "CoinMarketCap Symbol": 26089
+  },
+  {
+    "Token Name": "USDe",
+    "CoinMarketCap Symbol": 29470
+  },
+  {
+    "Token Name": "USH",
+    "CoinMarketCap Symbol": 23837
+  },
+  {
+    "Token Name": "WAGMI",
+    "CoinMarketCap Symbol": 28184
+  },
+  {
+    "Token Name": "WBTC",
+    "CoinMarketCap Symbol": 3717
+  },
+  {
+    "Token Name": "weETH",
+    "CoinMarketCap Symbol": 28695
+  },
+  {
+    "Token Name": "WNCG",
+    "CoinMarketCap Symbol": 11222
+  },
+  {
+    "Token Name": "ZRO",
+    "CoinMarketCap Symbol": 26997
+  },
+  {
+    "Token Name": "0X",
+    "CoinMarketCap Symbol": 26543
+  },
+  {
+    "Token Name": "agEUR",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "AITap",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "ASDCRV",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "AURA",
+    "CoinMarketCap Symbol": 21532
+  },
+  {
+    "Token Name": "CANTO",
+    "CoinMarketCap Symbol": 21516
+  },
+  {
+    "Token Name": "cNOTE",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "CPOOL",
+    "CoinMarketCap Symbol": 12573
+  },
+  {
+    "Token Name": "CSIX",
+    "CoinMarketCap Symbol": 23546
+  },
+  {
+    "Token Name": "dPRIME",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "esZKDX",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "ETHC",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "EXTRA",
+    "CoinMarketCap Symbol": 27603
+  },
+  {
+    "Token Name": "fETH",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "FJO",
+    "CoinMarketCap Symbol": 30810
+  },
+  {
+    "Token Name": "FOX",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "FXN",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "GRAI",
+    "CoinMarketCap Symbol": 25337
+  },
+  {
+    "Token Name": "HMX",
+    "CoinMarketCap Symbol": 29121
+  },
+  {
+    "Token Name": "ICE",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "ISS",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "JULD",
+    "CoinMarketCap Symbol": 8164
+  },
+  {
+    "Token Name": "KACY",
+    "CoinMarketCap Symbol": 17587
+  },
+  {
+    "Token Name": "LVL",
+    "CoinMarketCap Symbol": 23119
+  },
+  {
+    "Token Name": "MANTA",
+    "CoinMarketCap Symbol": 13631
+  },
+  {
+    "Token Name": "MERK",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "mevETH",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "MMY",
+    "CoinMarketCap Symbol": 23038
+  },
+  {
+    "Token Name": "MOM",
+    "CoinMarketCap Symbol": 32504
+  },
+  {
+    "Token Name": "MORI",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "MOZ",
+    "CoinMarketCap Symbol": 24839
+  },
+  {
+    "Token Name": "mPENDLE",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "OHM",
+    "CoinMarketCap Symbol": 9067
+  },
+  {
+    "Token Name": "ONFTE",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "ORDS",
+    "CoinMarketCap Symbol": 28920
+  },
+  {
+    "Token Name": "PEAS",
+    "CoinMarketCap Symbol": 29186
+  },
+  {
+    "Token Name": "peUSD",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "PNP",
+    "CoinMarketCap Symbol": 27112
+  },
+  {
+    "Token Name": "Poi$on",
+    "CoinMarketCap Symbol": 23125
+  },
+  {
+    "Token Name": "PORTAL",
+    "CoinMarketCap Symbol": 29555
+  },
+  {
+    "Token Name": "PREON",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "PRIME",
+    "CoinMarketCap Symbol": 23711
+  },
+  {
+    "Token Name": "pxETH",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "QKNTL",
+    "CoinMarketCap Symbol": 28549
+  },
+  {
+    "Token Name": "QORPO",
+    "CoinMarketCap Symbol": 18345
+  },
+  {
+    "Token Name": "RF",
+    "CoinMarketCap Symbol": 24713
+  },
+  {
+    "Token Name": "ROGUE",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "sdMAV",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "senUSD",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "SIDUS",
+    "CoinMarketCap Symbol": 15463
+  },
+  {
+    "Token Name": "SLUSH",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "STAR",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "STEADY",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "STEAK",
+    "CoinMarketCap Symbol": 20266
+  },
+  {
+    "Token Name": "STONE",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "SUPER",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "TAP",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "TAROT",
+    "CoinMarketCap Symbol": 11409
+  },
+  {
+    "Token Name": "unkMAV",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "USDV",
+    "CoinMarketCap Symbol": 28443
+  },
+  {
+    "Token Name": "UXD",
+    "CoinMarketCap Symbol": 17535
+  },
+  {
+    "Token Name": "VEXT",
+    "CoinMarketCap Symbol": 27862
+  },
+  {
+    "Token Name": "vsdCRV",
+    "CoinMarketCap Symbol": "-"
+  },
+  {
+    "Token Name": "WOO",
+    "CoinMarketCap Symbol": 7501
+  },
+  {
+    "Token Name": "WTAO",
+    "CoinMarketCap Symbol": 23528
+  },
+  {
+    "Token Name": "xETH",
+    "CoinMarketCap Symbol": 28717
+  },
+  {
+    "Token Name": "swETH",
+    "CoinMarketCap Symbol": 25147
+  },
+  {
+    "Token Name": "USD0",
+    "CoinMarketCap Symbol": 32307
+  },
+  {
+    "Token Name": "cmETH",
+    "CoinMarketCap Symbol": 33978
+  },
+  {
+    "Token Name": "COOK",
+    "CoinMarketCap Symbol": 33720
+  },
+  {
+    "Token Name": "USDa",
+    "CoinMarketCap Symbol": 33720
+  },
+  {
+    "Token Name": "FRAX",
+    "CoinMarketCap Symbol": 6952
+  },
+  {
+    "Token Name": "FXS",
+    "CoinMarketCap Symbol": 6953
+  },
+  {
+    "Token Name": "sfrxETH",
+    "CoinMarketCap Symbol": 23177
+  },
+  {
+    "Token Name": "frxETH",
+    "CoinMarketCap Symbol": 23225
+  },
+  {
+    "Token Name": "sFRAX",
+    "CoinMarketCap Symbol": ""
+  },
+  {
+    "Token Name": "FPI",
+    "CoinMarketCap Symbol": 19425
+  },
+  {
+    "Token Name": "rswETH",
+    "CoinMarketCap Symbol": 29974
+  },
+  {
+    "Token Name": "ORDER",
+    "CoinMarketCap Symbol": 32809
+  },
+  {
+    "Token Name": "CAT",
+    "CoinMarketCap Symbol": 32724
+  },
+  {
+    "Token Name": "WIF",
+    "CoinMarketCap Symbol": 28752
+  },
+  {
+    "Token Name": "SAND",
+    "CoinMarketCap Symbol": 6210
+  },
+  {
+    "Token Name": "ATH",
+    "CoinMarketCap Symbol": 30083
+  },
+  {
+    "Token Name": "APE",
+    "CoinMarketCap Symbol": 18876
+  },
+  {
+    "Token Name": "EURA",
+    "CoinMarketCap Symbol": 15024
+  },
+  {
+    "Token Name": "USDz",
+    "CoinMarketCap Symbol": 32774
+  },
+  {
+    "Token Name": "ASTR",
+    "CoinMarketCap Symbol": 12885
+  },
+  {
+    "Token Name": "MODE",
+    "CoinMarketCap Symbol": 31016
+  },
+  {
+    "Token Name": "Syrup",
+    "CoinMarketCap Symbol": 33824
+  },
+  {
+    "Token Name": "AIT",
+    "CoinMarketCap Symbol": 28882
+  },
+  {
+    "Token Name": "d2O/dPRIME",
+    "CoinMarketCap Symbol": ""
+  },
+  {
+    "Token Name": "GMBL",
+    "CoinMarketCap Symbol": 29233
+  },
+  {
+    "Token Name": "Hera",
+    "CoinMarketCap Symbol": 19225
+  },
+  {
+    "Token Name": "INSP",
+    "CoinMarketCap Symbol": 28610
+  },
+  {
+    "Token Name": "LBFT",
+    "CoinMarketCap Symbol": ""
+  },
+  {
+    "Token Name": "OMNI",
+    "CoinMarketCap Symbol": ""
+  },
+  {
+    "Token Name": "OX",
+    "CoinMarketCap Symbol": 29530
+  },
+  {
+    "Token Name": "PYUSD",
+    "CoinMarketCap Symbol": 27772
+  },
+  {
+    "Token Name": "SSNC",
+    "CoinMarketCap Symbol": ""
+  },
+  {
+    "Token Name": "TBANK",
+    "CoinMarketCap Symbol": ""
+  },
+  {
+    "Token Name": "TRVL",
+    "CoinMarketCap Symbol": ""
+  },
+  {
+    "Token Name": "sUSDa",
+    "CoinMarketCap Symbol": ""
+  },
+  {
+    "Token Name": "USD0++",
+    "CoinMarketCap Symbol": 33981
+  },
+  {
+    "Token Name": "USDY",
+    "CoinMarketCap Symbol": 29256
+  },
+  {
+    "Token Name": "Yak",
+    "CoinMarketCap Symbol": ""
+  }
+]
